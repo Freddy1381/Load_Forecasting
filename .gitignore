@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # dataset
-/dataset
-/hourly_load
+dataset/
+hourly_load/
