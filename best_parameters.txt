@@ -1,0 +1,6 @@
+MSE = 93799.84375
+# of hidden layers = 1
+# of hidden units = 9624
+learning rate = 0.005
+Dropout = 0.4
+Regulaeizer = keras.regularizers.L2
